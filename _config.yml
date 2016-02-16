@@ -1,6 +1,6 @@
-name: EyeOnNature
+name: Eye on Nature
 favicon: null
-layout_spectrum: 0.42629149346612394
+layout_spectrum: 1
 typography_spectrum: 0.6823801186401397
 title: Keeping an eye on all things nature
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#0e3358'
+    - '#121702'
+    - '#5f4d0b'
+    - '#fbce2f'
+    - '#9c841a'
   brandStrength: 0.12154728872701526
-  lightness: 0.022248281864449382
+  lightness: 0.25
   saturation: 0.5590706244111061
   rhythmicContrast: 0.8333365190774202
 purpose: []
